@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "KMP",
+            "request": "launch",
+            "mainClass": "KMP",
+            "projectName": "programmi_e9c014b8"
+        },
+        {
+            "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance",
+            "projectName": "programmi_e9c014b8"
+        },
+        {
+            "externalConsole": true
+        }
+    ]
+}
